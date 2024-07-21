@@ -1,4 +1,4 @@
-# Import used modules
+# System modules
 import json
 
 # Install requests with python -m pip install requests 
